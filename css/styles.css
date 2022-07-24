@@ -1,0 +1,128 @@
+.Header{
+    background-color: #CCF3EE;
+    text-align: center;
+    padding : 100px 0px;
+    font-family: 'Dancing Script', cursive;
+    color: #18978F;
+
+}
+.colleges{
+    text-align: center;
+    background-color: #CCF3EE;
+    color: #18978F;
+    padding-bottom: 150px;;
+}
+.container{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 100px auto;
+}
+.col{
+    text-align: left;
+    line-height: 2rem;
+    font-size: 1rem;
+}
+.carousel_slide{
+    
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+
+}
+.card{
+    
+    margin: 50px auto;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.card-img-top{
+
+    height : 200px;
+    width: auto;
+
+}
+.about{
+    background-color: #CCF3EE;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #18978F;
+}
+.About{
+    margin: 0px 600px;
+    line-height: 30px;
+    font-size: 1.5rem;
+}
+.About_2{
+    margin: 0px 725px;
+    line-height: 30px;
+    font-size: 1.5rem;
+}
+.About_1{
+    margin: 0px 500px;
+    line-height: 30px;
+    font-size: 1.5rem;
+}
+
+.carousel_1{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    border-radius: 100%;
+}
+
+h1{
+    font-size: 5.5rem;
+}
+h2{
+    margin-bottom: 100px;
+    font-weight: bolder;
+    font-size: 3.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color :aliceblue;
+    font-size: 1rem;
+    padding-top: 50px;
+}
+.p{
+    color:aliceblue;
+    font-size: 0.75rem;
+}
+.hr1{
+    border: dotted #18978F 6px;
+    border-bottom: none;
+    background-color: #CCF3EE;
+    margin: 50px auto 0px;
+    width: 4%;
+   
+}
+.hr2{
+    border: dotted #18978F 6px;
+    border-bottom: none;
+    background-color: #CCF3EE;
+    margin: 50px auto 0px;
+    width: 4%;
+}
+.line{
+    padding-bottom: 75px;
+    padding-top:75px;
+
+}
+.footer{
+    text-align: center;
+    background-color: #2C3333;
+    padding-bottom: 50px;
+}
+.navbar-brand{
+    padding: 50px 50px;
+    font-size: 1.5rem;
+
+}
+.nav-item{
+    padding: 50px 50px;
+    font-size: 1.5rem;
+}
